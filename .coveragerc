@@ -1,0 +1,7 @@
+[run]
+source=,blog/,
+omit= 
+    venv
+    */migrations/*
+    */tests/*
+    */__init__.py
